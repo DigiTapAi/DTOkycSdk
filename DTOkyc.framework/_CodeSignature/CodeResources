@@ -10,35 +10,35 @@
 		</data>
 		<key>DTOkyc.storyboardc/9Br-rN-1yg-view-U5J-0T-Ew0.nib/objects-14.0+.nib</key>
 		<data>
-		BNQbBC7U1IyeihmVvS7ovUho9jw=
+		nbDqLGhUZSXJXx0tRAkeUYlmJVY=
 		</data>
 		<key>DTOkyc.storyboardc/9Br-rN-1yg-view-U5J-0T-Ew0.nib/runtime.nib</key>
 		<data>
-		20hr+bmtKwPQ9jzzTbJiDeqh26c=
+		J/G4ILQTBo7BadCkvSp+0DtnT+c=
 		</data>
 		<key>DTOkyc.storyboardc/AdharDetailVC.nib/objects-14.0+.nib</key>
 		<data>
-		rWi1fdja5z/lFv7ahyV7nKcZADA=
+		AhkHsIRxlyl8piLQyH9VoG+23m8=
 		</data>
 		<key>DTOkyc.storyboardc/AdharDetailVC.nib/runtime.nib</key>
 		<data>
-		saoOBKgY7kelZsJg7HFodqosrEY=
+		2wsBYm6/0j5cvkyC/p5cexQorN8=
 		</data>
 		<key>DTOkyc.storyboardc/DTOkycVC.nib/objects-14.0+.nib</key>
 		<data>
-		ZxqF3cspN8hScowQDQJW8A/A4JU=
+		qjXZ4SNZb+HLUSkcCsQ34DCFhRI=
 		</data>
 		<key>DTOkyc.storyboardc/DTOkycVC.nib/runtime.nib</key>
 		<data>
-		DvnX7XZxOSnu4AHchvGOZNMZbO4=
+		6fBYwf7Jhibdb6uBdIn77Sv8pTY=
 		</data>
 		<key>DTOkyc.storyboardc/ErrorAlertViewController.nib/objects-14.0+.nib</key>
 		<data>
-		v9uUtYBL5a+InaANoStJQTLKSWk=
+		xwoaEZ8mRNBd0wUKkiBkDLhu93o=
 		</data>
 		<key>DTOkyc.storyboardc/ErrorAlertViewController.nib/runtime.nib</key>
 		<data>
-		ZWdc11OdS9hoovyWzTViR//0HGQ=
+		YNTH5OingHddDRw5VGNbwbfz2WM=
 		</data>
 		<key>DTOkyc.storyboardc/Info.plist</key>
 		<data>
@@ -46,19 +46,19 @@
 		</data>
 		<key>DTOkyc.storyboardc/LDA-G5-kTS-view-big-dn-OSK.nib/objects-14.0+.nib</key>
 		<data>
-		c/htDKhJXwCJaFFomXzc92CpwIQ=
+		OQtlZx2Ezv85J9/+vtHU7NsZKyc=
 		</data>
 		<key>DTOkyc.storyboardc/LDA-G5-kTS-view-big-dn-OSK.nib/runtime.nib</key>
 		<data>
-		4m0PtT44FMBeY0Z2VXVYWOd8ziU=
+		wYe8HrewbyXz2mMcThpd45cpFWY=
 		</data>
 		<key>DTOkyc.storyboardc/WGh-cC-QMG-view-hcI-7O-RE0.nib/objects-14.0+.nib</key>
 		<data>
-		8SOPvFi/vXsTBNVURZTgb1ORej4=
+		ex2UA0gu9X13pLN+9TXd+U1Jhj4=
 		</data>
 		<key>DTOkyc.storyboardc/WGh-cC-QMG-view-hcI-7O-RE0.nib/runtime.nib</key>
 		<data>
-		R7jHcCGMsXwoQded7FRMjWI1mJw=
+		xlGvtLVmelfINo6oXlwVKc/Aqzs=
 		</data>
 		<key>Headers/DTOkyc-Swift.h</key>
 		<data>
@@ -86,11 +86,11 @@
 		</data>
 		<key>Modules/DTOkyc.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		x3eybP3aKxZqNQ9WmpQRyn9cnbs=
+		MkPXYem7BtKSU4N8m9nGdFbajdU=
 		</data>
 		<key>Modules/DTOkyc.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		x3eybP3aKxZqNQ9WmpQRyn9cnbs=
+		MkPXYem7BtKSU4N8m9nGdFbajdU=
 		</data>
 		<key>Modules/DTOkyc.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/DTOkyc.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PTo4qMqZgaMREJDop8SFMGc89ao=
+		/7qvcB1cw7ISZBa6gI0G21f9ri4=
 		</data>
 		<key>Modules/DTOkyc.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Modules/DTOkyc.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		PTo4qMqZgaMREJDop8SFMGc89ao=
+		/7qvcB1cw7ISZBa6gI0G21f9ri4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -142,56 +142,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Hqc518o1UZos8jDSmepXwcJXd5O7y4DqeiKmaEpdh6w=
+			/uDvY89LEd/mVNWgkyO+WowVv5ODOnXHONI1ys3HXSQ=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/9Br-rN-1yg-view-U5J-0T-Ew0.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hZzsL2snUC7wLOmcrCJx2oLoJT7alf8W6C36ejUr4xo=
+			rB8RZbJ/EqyuqmeDzdhpFHza7AmsGIkyK6ojqgbNjzU=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/AdharDetailVC.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cRU3MhZKUn9Q7BTl4L+PKNSyhUh9BqFD32iUCvsCk+g=
+			pJqpQDqLszMUAJgs9u3llwSW4Y1Q8xAYD8ocslNrM4Q=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/AdharDetailVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p2UEh+fkdtnMVFcoOWyG0tBJqdL2t0npep7uOVcXgU8=
+			2q5f8j/SASVakSWjdqYGKi6WFUK3eAGxNPv/EwRoy50=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/DTOkycVC.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iePziam4YHq+/0iucX0Wf0EqRzpiFFAygmaejekqHPI=
+			xFNkLV9H9uV/BkP5mseIC80z9mgPm0HlD7rUh5fT2c4=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/DTOkycVC.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6Y+ZSCfhLTEa9GXBQQXK8gyXwDzt51ezX6MSxZWMqHk=
+			uHymA+im0bvYJaJN3+HEfFlFV8uBlnuKJA8zNveKzcw=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/ErrorAlertViewController.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qqx9iRRcXFX7zAKClxp4ZfPgMOkhBIqiK8xSFaW+p+M=
+			VrVQElyCshskbg80NjN2iXmSjPdOmEoJqK90Xxdgo+8=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/ErrorAlertViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZEDmpoRHxus+8X2OxNs8cg+4viP3cvDnokRwwmQR8mU=
+			7j9ss+J8bnR+u8rHb6SRZz+s/vbcTWxE5uqW4B28GoI=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/Info.plist</key>
@@ -205,28 +205,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4FkfkbRszVaZ9ZzhMzlzKHC40ha1D3Cvn8wDjV0KHEQ=
+			YHe3zuCp5b8YrgsSMOkxZlzY+cuEne+ccdg73W4Y/fM=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/LDA-G5-kTS-view-big-dn-OSK.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LCTxXsd+98yk6dlpbiE/4UhOTIefrYoBM+MmJMj37+w=
+			BBNqY50G4zI7WnpsZAJ4mEi8yFSNwhWChN7o/I5QU6c=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/WGh-cC-QMG-view-hcI-7O-RE0.nib/objects-14.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			55Dg4It6I7pJfDgzdfoi4TinqiyuO74Hxp4WKJb2XoM=
+			BrfaaGRKJzGSVQTtUMAkvP9ztekXhjfEUHVAOhnWzrM=
 			</data>
 		</dict>
 		<key>DTOkyc.storyboardc/WGh-cC-QMG-view-hcI-7O-RE0.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XKMFbcFbfFVxQtrvzy9kimKPwEzzTHJwruxCkYTwpwY=
+			63dUI3uie+zNoBpjs9mxtFEVykFfMYLb7TDJ6E8u5U8=
 			</data>
 		</dict>
 		<key>Headers/DTOkyc-Swift.h</key>
@@ -268,14 +268,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g9bXABFZwhgCf/XxA4jd0hQGhgTyfl/PwWhgBEAduBQ=
+			8U3HZ9zMvu+wb+aqz4FfE7ICdkAHgm361pKCUOMoXdI=
 			</data>
 		</dict>
 		<key>Modules/DTOkyc.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g9bXABFZwhgCf/XxA4jd0hQGhgTyfl/PwWhgBEAduBQ=
+			8U3HZ9zMvu+wb+aqz4FfE7ICdkAHgm361pKCUOMoXdI=
 			</data>
 		</dict>
 		<key>Modules/DTOkyc.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -289,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/EWds0ZAp1YP2FyatWgtGKfIAyGdTbVfsykz3cy6NNU=
+			X9LA8zZO893SAcuyHzBwTcKJ8MlMHk4UvYxf46jXBmo=
 			</data>
 		</dict>
 		<key>Modules/DTOkyc.swiftmodule/x86_64.swiftdoc</key>
@@ -303,7 +303,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/EWds0ZAp1YP2FyatWgtGKfIAyGdTbVfsykz3cy6NNU=
+			X9LA8zZO893SAcuyHzBwTcKJ8MlMHk4UvYxf46jXBmo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

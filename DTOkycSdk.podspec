@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DTOkycSdk"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "DTOkycSdk is for doing offline-kyc."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
 DTOkycSdk is for doing offline-kyc. It is same like doing in UIDAI website
                    DESC
 
-  spec.homepage     = "https://github.com/saikirantokala/DTOkycSdk"
+  spec.homepage     = "https://github.com/DigiTapAi/DTOkycSdk"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -53,10 +53,10 @@ DTOkycSdk is for doing offline-kyc. It is same like doing in UIDAI website
   #  profile URL.
   #
 
-  spec.author             = { "saikirantokala" => "saikiran.tokala@digitap.ai" }
-  # Or just: spec.author    = "saikirantokala"
-  # spec.authors            = { "saikirantokala" => "saikiran.tokala@digitap.ai" }
-  # spec.social_media_url   = "https://twitter.com/saikirantokala"
+  spec.author             = { "Digitap" => "info@digitap.ai" }
+  # Or just: spec.author    = "Digitap"
+  # spec.authors            = { "Digitap" => "info@digitap.ai" }
+  # spec.social_media_url   = "https://twitter.com/digitap"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -82,7 +82,7 @@ DTOkycSdk is for doing offline-kyc. It is same like doing in UIDAI website
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/saikirantokala/DTOkycSdk.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/DigiTapAi/DTOkycSdk.git", :tag => spec.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
