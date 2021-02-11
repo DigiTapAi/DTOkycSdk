@@ -19,7 +19,7 @@ pod 'DTOkycSdk'
 
 ## Author
 
-saikirantokala, saikiran.tokala@digitap.ai
+Digital, info@digitap.ai
 
 ## License
 
