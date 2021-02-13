@@ -19,7 +19,7 @@ pod 'DTOkycSdk'
 
 ## Author
 
-Digital, info@digitap.ai
+Digitap, info@digitap.ai
 
 ## License
 
