@@ -1,0 +1,11 @@
+framework module DTOkyc {
+  umbrella header "DTOkyc.h"
+
+  export *
+  module * { export * }
+}
+
+module DTOkyc.Swift {
+    header "DTOkyc-Swift.h"
+    requires objc
+}
