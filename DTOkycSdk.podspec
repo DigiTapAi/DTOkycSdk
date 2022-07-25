@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "DTOkycSdk"
-  spec.version      = "1.0.4"
+  spec.version      = "1.0.5"
   spec.summary      = "DTOkycSdk is for doing offline-kyc."
 
   # This description is used to generate tags and improve search results.
