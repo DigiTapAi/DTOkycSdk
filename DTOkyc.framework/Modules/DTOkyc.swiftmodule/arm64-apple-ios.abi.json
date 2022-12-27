@@ -1,0 +1,2062 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "QuartzCore",
+        "printedName": "QuartzCore",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DTEnvironment",
+        "printedName": "DTEnvironment",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "PRODUCTION",
+            "printedName": "PRODUCTION",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTOkyc.DTEnvironment.Type) -> DTOkyc.DTEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTEnvironment",
+                    "printedName": "DTOkyc.DTEnvironment",
+                    "usr": "s:6DTOkyc13DTEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTOkyc.DTEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTEnvironment",
+                        "printedName": "DTOkyc.DTEnvironment",
+                        "usr": "s:6DTOkyc13DTEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6DTOkyc13DTEnvironmentO10PRODUCTIONyA2CmF",
+            "mangledName": "$s6DTOkyc13DTEnvironmentO10PRODUCTIONyA2CmF",
+            "moduleName": "DTOkyc"
+          },
+          {
+            "kind": "Var",
+            "name": "UAT",
+            "printedName": "UAT",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTOkyc.DTEnvironment.Type) -> DTOkyc.DTEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTEnvironment",
+                    "printedName": "DTOkyc.DTEnvironment",
+                    "usr": "s:6DTOkyc13DTEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTOkyc.DTEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTEnvironment",
+                        "printedName": "DTOkyc.DTEnvironment",
+                        "usr": "s:6DTOkyc13DTEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6DTOkyc13DTEnvironmentO3UATyA2CmF",
+            "mangledName": "$s6DTOkyc13DTEnvironmentO3UATyA2CmF",
+            "moduleName": "DTOkyc"
+          },
+          {
+            "kind": "Var",
+            "name": "STAGE",
+            "printedName": "STAGE",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTOkyc.DTEnvironment.Type) -> DTOkyc.DTEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTEnvironment",
+                    "printedName": "DTOkyc.DTEnvironment",
+                    "usr": "s:6DTOkyc13DTEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTOkyc.DTEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTEnvironment",
+                        "printedName": "DTOkyc.DTEnvironment",
+                        "usr": "s:6DTOkyc13DTEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6DTOkyc13DTEnvironmentO5STAGEyA2CmF",
+            "mangledName": "$s6DTOkyc13DTEnvironmentO5STAGEyA2CmF",
+            "moduleName": "DTOkyc"
+          },
+          {
+            "kind": "Var",
+            "name": "DEV",
+            "printedName": "DEV",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(DTOkyc.DTEnvironment.Type) -> DTOkyc.DTEnvironment",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTEnvironment",
+                    "printedName": "DTOkyc.DTEnvironment",
+                    "usr": "s:6DTOkyc13DTEnvironmentO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "DTOkyc.DTEnvironment.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTEnvironment",
+                        "printedName": "DTOkyc.DTEnvironment",
+                        "usr": "s:6DTOkyc13DTEnvironmentO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:6DTOkyc13DTEnvironmentO3DEVyA2CmF",
+            "mangledName": "$s6DTOkyc13DTEnvironmentO3DEVyA2CmF",
+            "moduleName": "DTOkyc"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DTOkyc.DTEnvironment?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTEnvironment",
+                    "printedName": "DTOkyc.DTEnvironment",
+                    "usr": "s:6DTOkyc13DTEnvironmentO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:6DTOkyc13DTEnvironmentO8rawValueACSgSS_tcfc",
+            "mangledName": "$s6DTOkyc13DTEnvironmentO8rawValueACSgSS_tcfc",
+            "moduleName": "DTOkyc",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6DTOkyc13DTEnvironmentO8rawValueSSvp",
+            "mangledName": "$s6DTOkyc13DTEnvironmentO8rawValueSSvp",
+            "moduleName": "DTOkyc",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc13DTEnvironmentO8rawValueSSvg",
+                "mangledName": "$s6DTOkyc13DTEnvironmentO8rawValueSSvg",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:6DTOkyc13DTEnvironmentO",
+        "mangledName": "$s6DTOkyc13DTEnvironmentO",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ConstantNotification",
+        "printedName": "ConstantNotification",
+        "children": [
+          {
+            "kind": "TypeDecl",
+            "name": "NotificationKey",
+            "printedName": "NotificationKey",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "DTOkycNotificationKey",
+                "printedName": "DTOkycNotificationKey",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:6DTOkyc20ConstantNotificationC0C3KeyO0acD0SSvpZ",
+                "mangledName": "$s6DTOkyc20ConstantNotificationC0C3KeyO0acD0SSvpZ",
+                "moduleName": "DTOkyc",
+                "static": true,
+                "declAttributes": [
+                  "HasInitialValue",
+                  "HasStorage",
+                  "AccessControl"
+                ],
+                "isLet": true,
+                "hasStorage": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:6DTOkyc20ConstantNotificationC0C3KeyO0acD0SSvgZ",
+                    "mangledName": "$s6DTOkyc20ConstantNotificationC0C3KeyO0acD0SSvgZ",
+                    "moduleName": "DTOkyc",
+                    "static": true,
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:6DTOkyc20ConstantNotificationC0C3KeyO",
+            "mangledName": "$s6DTOkyc20ConstantNotificationC0C3KeyO",
+            "moduleName": "DTOkyc",
+            "declAttributes": [
+              "AccessControl"
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:6DTOkyc20ConstantNotificationC",
+        "mangledName": "$s6DTOkyc20ConstantNotificationC",
+        "moduleName": "DTOkyc",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "DTOkyc",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "DTOkycVC",
+        "printedName": "DTOkycVC",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "clientSecret",
+            "printedName": "clientSecret",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6DTOkyc0A2VCC12clientSecretSSvp",
+            "mangledName": "$s6DTOkyc0A2VCC12clientSecretSSvp",
+            "moduleName": "DTOkyc",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC12clientSecretSSvg",
+                "mangledName": "$s6DTOkyc0A2VCC12clientSecretSSvg",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC12clientSecretSSvs",
+                "mangledName": "$s6DTOkyc0A2VCC12clientSecretSSvs",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC12clientSecretSSvM",
+                "mangledName": "$s6DTOkyc0A2VCC12clientSecretSSvM",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "phoneoremail",
+            "printedName": "phoneoremail",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6DTOkyc0A2VCC12phoneoremailSSvp",
+            "mangledName": "$s6DTOkyc0A2VCC12phoneoremailSSvp",
+            "moduleName": "DTOkyc",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC12phoneoremailSSvg",
+                "mangledName": "$s6DTOkyc0A2VCC12phoneoremailSSvg",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC12phoneoremailSSvs",
+                "mangledName": "$s6DTOkyc0A2VCC12phoneoremailSSvs",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC12phoneoremailSSvM",
+                "mangledName": "$s6DTOkyc0A2VCC12phoneoremailSSvM",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "clientId",
+            "printedName": "clientId",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6DTOkyc0A2VCC8clientIdSSvp",
+            "mangledName": "$s6DTOkyc0A2VCC8clientIdSSvp",
+            "moduleName": "DTOkyc",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC8clientIdSSvg",
+                "mangledName": "$s6DTOkyc0A2VCC8clientIdSSvg",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC8clientIdSSvs",
+                "mangledName": "$s6DTOkyc0A2VCC8clientIdSSvs",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC8clientIdSSvM",
+                "mangledName": "$s6DTOkyc0A2VCC8clientIdSSvM",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "environment",
+            "printedName": "environment",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ImplicitlyUnwrappedOptional",
+                "printedName": "DTOkyc.DTEnvironment?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTEnvironment",
+                    "printedName": "DTOkyc.DTEnvironment",
+                    "usr": "s:6DTOkyc13DTEnvironmentO"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvp",
+            "mangledName": "$s6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvp",
+            "moduleName": "DTOkyc",
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "DTOkyc.DTEnvironment?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTEnvironment",
+                        "printedName": "DTOkyc.DTEnvironment",
+                        "usr": "s:6DTOkyc13DTEnvironmentO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvg",
+                "mangledName": "$s6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvg",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ImplicitlyUnwrappedOptional",
+                    "printedName": "DTOkyc.DTEnvironment?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "DTEnvironment",
+                        "printedName": "DTOkyc.DTEnvironment",
+                        "usr": "s:6DTOkyc13DTEnvironmentO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvs",
+                "mangledName": "$s6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvs",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvM",
+                "mangledName": "$s6DTOkyc0A2VCC11environmentAA13DTEnvironmentOSgvM",
+                "moduleName": "DTOkyc",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "viewDidLoad",
+            "printedName": "viewDidLoad()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC(im)viewDidLoad",
+            "mangledName": "$s6DTOkyc0A2VCC11viewDidLoadyyF",
+            "moduleName": "DTOkyc",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewDidLoad",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "viewWillAppear",
+            "printedName": "viewWillAppear(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC(im)viewWillAppear:",
+            "mangledName": "$s6DTOkyc0A2VCC14viewWillAppearyySbF",
+            "moduleName": "DTOkyc",
+            "overriding": true,
+            "isOpen": true,
+            "objc_name": "viewWillAppear:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "AccessControl",
+              "Override"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DTOkycVC",
+                "printedName": "DTOkyc.DTOkycVC",
+                "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC(im)initWithNibName:bundle:",
+            "mangledName": "$s6DTOkyc0A2VCC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "DTOkyc",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "DTOkyc.DTOkycVC?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DTOkycVC",
+                    "printedName": "DTOkyc.DTOkycVC",
+                    "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC(im)initWithCoder:",
+            "mangledName": "$s6DTOkyc0A2VCC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "DTOkyc",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@DTOkyc@objc(cs)DTOkycVC",
+        "mangledName": "$s6DTOkyc0A2VCC",
+        "moduleName": "DTOkyc",
+        "isOpen": true,
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1410,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1438,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1458,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "StringLiteral",
+      "offset": 1481,
+      "length": 6,
+      "value": "\"1234\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1528,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1576,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/AdharDetailVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13242,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 287,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 336,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1179,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1220,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1285,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1326,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1354,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/PaperlessModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1380,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/Utils\/UIDAIUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 208,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/Utils\/UIDAIUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 242,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/Utils\/UIDAIUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/Utils\/UIDAIUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 300,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/Utils\/UIDAIUtil.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/Utils\/UIDAIUtil.swift",
+      "kind": "IntegerLiteral",
+      "offset": 365,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 777,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 791,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 777,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 791,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 777,
+      "length": 4,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 791,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 852,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 863,
+      "length": 5,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 878,
+      "length": 5,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 893,
+      "length": 8,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 911,
+      "length": 6,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 852,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 863,
+      "length": 5,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 878,
+      "length": 5,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 893,
+      "length": 8,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 911,
+      "length": 6,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 852,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 863,
+      "length": 5,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 878,
+      "length": 5,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 893,
+      "length": 8,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 911,
+      "length": 6,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 984,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 984,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 984,
+      "length": 6,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1051,
+      "length": 4,
+      "value": "10.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1111,
+      "length": 2,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1175,
+      "length": 4,
+      "value": "0.15"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1232,
+      "length": 4,
+      "value": "12.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1291,
+      "length": 4,
+      "value": "12.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1345,
+      "length": 3,
+      "value": "8.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1421,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1704,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1716,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1761,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1803,
+      "length": 4,
+      "value": "18.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1852,
+      "length": 4,
+      "value": "24.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 1897,
+      "length": 4,
+      "value": "14.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2076,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 2086,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2150,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2162,
+      "length": 2,
+      "value": "28"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2208,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 2305,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 2368,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2533,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2546,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2879,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 3432,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3473,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkyc\/IHProgressHUD\/Classes\/IHProgressHUD.swift",
+      "kind": "FloatLiteral",
+      "offset": 3524,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 286,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 292,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 306,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 311,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 324,
+      "length": 4,
+      "value": "51.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 329,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "FloatLiteral",
+      "offset": 343,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 380,
+      "length": 20,
+      "value": "\"com.digitap.dtokyc\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "IntegerLiteral",
+      "offset": 465,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 500,
+      "length": 11,
+      "value": "\"IOS_1.0.4\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 563,
+      "length": 31,
+      "value": "\"https:\/\/apidemo.digitap.work\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 25,
+      "value": "\"https:\/\/api.digitap.ai\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 679,
+      "length": 27,
+      "value": "\"https:\/\/api.digitap.work\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 738,
+      "length": 32,
+      "value": "\"https:\/\/apistage.digitap.work\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 811,
+      "length": 31,
+      "value": "\"https:\/\/svcdemo.digitap.work\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 873,
+      "length": 25,
+      "value": "\"https:\/\/svc.digitap.ai\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 929,
+      "length": 27,
+      "value": "\"https:\/\/svc.digitap.work\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 989,
+      "length": 32,
+      "value": "\"https:\/\/svcstage.digitap.work\/\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1082,
+      "length": 15,
+      "value": "\"auth\/v1\/login\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1137,
+      "length": 74,
+      "value": "\"https:\/\/identitytoolkit.googleapis.com\/v1\/accounts:signInWithCustomToken\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1247,
+      "length": 19,
+      "value": "\"ent\/v1\/kyc\/upload\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1308,
+      "length": 30,
+      "value": "\"ent\/v1\/kyc\/ent-status-update\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1382,
+      "length": 24,
+      "value": "\"ent\/v2\/kyc\/get-captcha\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1445,
+      "length": 43,
+      "value": "\"ent\/v3\/kyc\/get-captcha?isNumeric4Len=true\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1533,
+      "length": 32,
+      "value": "\"ent\/v2\/kyc\/intiate-api-captcha\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1605,
+      "length": 28,
+      "value": "\"ent\/v3\/kyc\/intiate-kyc-sdk\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1676,
+      "length": 42,
+      "value": "\"ent\/v2\/kyc\/post-kyc-otp-paperless-upload\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1756,
+      "length": 27,
+      "value": "\"ent\/v3\/kyc\/submit-otp-sdk\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1862,
+      "length": 43,
+      "value": "\"https:\/\/resident.uidai.gov.in\/offline-kyc\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1938,
+      "length": 18,
+      "value": "\"?overlayConfig=1\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 1988,
+      "length": 16,
+      "value": "\"User Cancelled\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2033,
+      "length": 13,
+      "value": "\"KYC Success\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2074,
+      "length": 12,
+      "value": "\"KYC Failed\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2172,
+      "length": 8,
+      "value": "\"DTOkyc\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2235,
+      "length": 15,
+      "value": "\"AdharDetailVC\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2303,
+      "length": 26,
+      "value": "\"ErrorAlertViewController\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2394,
+      "length": 76,
+      "value": "\"https:\/\/aadhar-scraping-js.s3.ap-south-1.amazonaws.com\/aadhaar_scraping.js\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 2595,
+      "length": 18,
+      "value": "\"okycCommunicator\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/Constant.swift",
+      "kind": "StringLiteral",
+      "offset": 3790,
+      "length": 8,
+      "value": "\"DTOkyc\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/ErrorAlertViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 932,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkycVC.swift",
+      "kind": "StringLiteral",
+      "offset": 515,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkycVC.swift",
+      "kind": "StringLiteral",
+      "offset": 548,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkycVC.swift",
+      "kind": "StringLiteral",
+      "offset": 612,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkycVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 645,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/saikiran\/Documents\/Digitap-Projects\/Okyc\/Navi-Okyc-IOS-SDK\/Okyc-Sdk\/DTOkycVC.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7780,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}

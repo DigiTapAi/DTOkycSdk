@@ -6,6 +6,6 @@ framework module DTOkyc {
 }
 
 module DTOkyc.Swift {
-    header "DTOkyc-Swift.h"
-    requires objc
+  header "DTOkyc-Swift.h"
+  requires objc
 }
